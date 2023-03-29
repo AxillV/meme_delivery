@@ -7,8 +7,8 @@ from io import BytesIO
 from tqdm import tqdm
 
 # praw constants
-client_id = 'qdiHACHroBNrag'
-client_secret = 'dQtn4cbSVW-SiZSwzozWSSbX0dI'
+client_id = ''
+client_secret = ''
 redditHeaders = 'windows10:meme_delivery_axillv:v0.0.1a (by /u/AxillV)'
 
 # setup headers for downloading images off of reddit and imgur etc.
